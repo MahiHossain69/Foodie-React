@@ -11,7 +11,7 @@ const Banner = () => {
    <>
    <div className="">
      
-      <section className="relative h-[830px] w-[100%]  overflow-hidden">
+      <section className="relative container mx-auto h-[830px] w-[100%]  overflow-hidden">
       
        
       <div className="absolute inset-0 w-full h-full bg-cover bg-center bg-hero-pattern"  >
@@ -68,7 +68,7 @@ const Banner = () => {
 
      
       
-    <div className="container mx-auto">
+    <div className="">
       <div className="w-[100%] bg-[#F3EDE5] h-[1px] relative mt-[195px]"></div>
       <div className="relative">
           <p className='font-epi text-left w-[735px] leading-[140%] text-[20px] font-normal text-white mt-[35px]'>Tired of juggling multiple dishes for different dietary needs? Amelia instantly customizes any recipe—so you only cook once.</p>
