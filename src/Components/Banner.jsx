@@ -11,7 +11,7 @@ const Banner = () => {
    <>
    <div className="">
      
-      <section className="relative container mx-auto h-[830px] w-[100%]  overflow-hidden">
+      <section className="relative h-[830px] w-[100%]  overflow-hidden">
       
        
       <div className="absolute inset-0 w-full h-full bg-cover bg-center bg-hero-pattern"  >
