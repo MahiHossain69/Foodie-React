@@ -12,6 +12,9 @@ export default {
         roboto:['Roboto','sans-serif'],
         lob:['Lobster','sans-serif']
       },
+      screens:{
+       'xs': {'min': '374px', 'max': '639px'},
+      },
       backgroundImage: {
         'hero-pattern': "url('./assets/banner.png')",
         
