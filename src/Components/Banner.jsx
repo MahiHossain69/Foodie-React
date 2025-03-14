@@ -40,12 +40,12 @@ const Banner = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 pt-4">
-              <button className="bg-transparent font-epi sm:text-[9px] font-semibold sm:hover:bg-[#F4A261] hover:bg-[#F4A261] text-white lg:text-[12px]  px-4 sm:w-[150px] lg:w-[200px] py-2 sm:h-[50px] rounded-[10px] border-[2px] border-[#F4A261] transition-colors">
-                <a href="#">Sign Up For Early Access</a>
-              </button>
-              <button className="bg-transparent font-epi font-semibold sm:text-[9px] hover:bg-[#F4A261] text-white lg:text-[12px] px-4 6 py-2 sm:w-[150px] lg:w-[200px] sm:h-[50px] rounded-[10px] border-[2px] border-[#F4A261] transition-colors">
-                <a href="#">Join as a Dietitian</a>
-              </button>
+  <a href="#"><button className="bg-transparent font-epi sm:text-[9px] font-semibold sm:hover:bg-[#F4A261] hover:bg-[#F4A261] text-white lg:text-[12px]  px-4 sm:w-[150px] lg:w-[200px] py-2 sm:h-[50px] rounded-[10px] border-[2px] border-[#F4A261] transition-colors">
+                Sign Up For Early Access
+              </button></a>
+            <a href="#">  <button className="bg-transparent font-epi font-semibold sm:text-[9px] hover:bg-[#F4A261] text-white lg:text-[12px] px-4 6 py-2 sm:w-[150px] lg:w-[200px] sm:h-[50px] rounded-[10px] border-[2px] border-[#F4A261] transition-colors">
+                Join as a Dietitian
+              </button></a>
             </div>
           </div>
         </div>
